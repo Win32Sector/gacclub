@@ -1,16 +1,14 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            GAC База Знаний
+longtitle:        GAC База Знаний
 description: >
-  Build Jekyll site with the GitBook style.
+  GAC База Знаний
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://gac-db.site'
+baseurl:          '/gac-club'
 rss:              RSS
 
 toc:
@@ -33,7 +31,7 @@ kramdown:
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
+permalink:        /:categories/:title:output_ext
 
 exclude:
   - _drafts
