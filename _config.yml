@@ -8,7 +8,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://gac-db.site'
-baseurl:          '/gac-club'
+baseurl:          '/gacclub'
 rss:              RSS
 
 toc:
